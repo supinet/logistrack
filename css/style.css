@@ -1,0 +1,17 @@
+#main {
+	margin-top: 30px;
+	margin-bottom: 40px;
+}
+
+#rodape {
+	background-color: #222;
+	border-color: #101010;
+	width: 100%;
+	position: fixed;
+	bottom: 0px;
+	padding: 5px 0px;
+	text-align: center;
+	font-size: 10px;
+	color: #FFF;
+	display: block;
+}
